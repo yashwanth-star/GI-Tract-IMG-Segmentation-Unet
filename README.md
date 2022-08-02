@@ -1,11 +1,11 @@
 # GI-Tract-IMG-Segmentation-Unet
 Gastrointestinal tract image segmentation using deep learning U-net architcture.
 
-A Magnetic Resonance Imaging Guided Linear Accelerator (MRI-LINAC) is a radiotherapy
-method used by oncologists to direct x-ray beams toward tumours to eradicate them. Cancerous
-tumours are treated with radiotherapy by using MRI scans. This tumour is located between the
-stomach and intestines on the gastrointestinal tract (GI-Tract) and changes position every few
-days. The best feasible way to determine the position of a tumour is through MRI scans.
+A Magnetic Resonance Imaging Guided Linear Accelerator (MRI-LINAC) is a radiotherapy method
+used by oncologists to direct x-ray beams toward tumours to eradicate them. Cancerous tumours
+are treated with radiotherapy by using MRI scans. This tumour is located between the stomach
+and intestines on the gastrointestinal tract (GI-Tract) and changes position every few days.
+The best feasible way to determine the position of a tumour is through MRI scans.
 This allows oncologists to visualize the tumour's position and administer precise doses of
 X-ray beams based on the tumour's presence. In order to deliver the dose to the tumour while
 avoiding the organs, the X-ray beam must be angled to avoid the stomach and intestines.
